@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-제이의 홈페이지! OK!
+[제이](my-intro.md)의 홈페이지! OK!
 
 You can use the [editor on GitHub](https://github.com/juricho-jay/juricho-jay.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
